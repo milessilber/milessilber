@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milessilber
-- 👀 I’m interested in ... AI and game development! 
-- 🌱 I’m currently learning ... Ruby on Rails
+- 👀 I’m interested in ... website development 
+- 🌱 I’m currently learning ... Ruby on Rails, HTML, CSS
 - 💞️ I’m looking to collaborate on ... anything that provides me an opportunity to learn!
 - 📫 How to reach me ... milessilber@gmail.com
 
